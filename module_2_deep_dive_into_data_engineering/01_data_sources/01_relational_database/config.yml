@@ -1,0 +1,17 @@
+source:
+  database:
+    name: chinook
+    type: sqlite
+  table:
+    - albums
+    - artists
+    - customers
+    - employees
+    - genres
+    - invoice_items
+    - invoices
+    - media_types
+    - playlist_track
+    - playlists
+    - tracks
+    

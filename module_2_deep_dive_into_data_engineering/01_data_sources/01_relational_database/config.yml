@@ -1,7 +1,7 @@
 source:
   database:
-    name: chinook
-    type: sqlite
+    host: chinook
+    db_type: sqlite
   table:
     - albums
     - artists

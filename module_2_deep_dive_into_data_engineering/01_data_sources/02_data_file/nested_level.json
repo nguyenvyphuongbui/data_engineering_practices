@@ -1,6 +1,10 @@
 {
     "school_name": "Dunder Miflin",
-    "class": "Year 1",
+    "class": {
+        "level": 12,
+        "room": "K1.01",
+        "teacher": "John"
+    },
     "students": [
     {
         "id": "A1",
@@ -10,7 +14,6 @@
             "physics": 66,
             "chemistry": 61
         }
-  
     },
     {
         "id": "A2",

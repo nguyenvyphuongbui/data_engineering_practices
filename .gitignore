@@ -208,6 +208,7 @@ __marimo__/
 
 # destination dataset
 **/destination/
+**destination.db
 
 # backup files
 **.bk
